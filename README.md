@@ -1,0 +1,1 @@
+este repositorio es para hacer las prácticas de git
